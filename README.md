@@ -7,3 +7,7 @@ I am a student at ugsot, currently learning git and github.
 - Communication
 - Problem solving
 - Basic git
+
+## Projects
+- xyz: hello
+- abc: world
