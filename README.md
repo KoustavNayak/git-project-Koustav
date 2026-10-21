@@ -11,3 +11,7 @@ I am a student at ugsot, currently learning git and github.
 ## Projects
 - xyz: hello
 - abc: world
+
+## Sovial Links
+- GitHub: https://github.com/KoustavNayak
+- LinkedIn: ...
