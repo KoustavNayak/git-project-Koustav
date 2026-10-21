@@ -11,3 +11,6 @@ I am a student at ugsot, currently learning git and github.
 ## Projects
 - xyz: hello
 - abc: world
+
+## Contact
+- Email: ajsdfhkashjdf@gmail.com
