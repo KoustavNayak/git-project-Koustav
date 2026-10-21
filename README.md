@@ -14,3 +14,7 @@ I am a student at ugsot, currently learning git and github.
 
 ## Contact
 - Email: ajsdfhkashjdf@gmail.com
+
+## Hobbies
+- Chess
+- Cooking
